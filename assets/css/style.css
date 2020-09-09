@@ -75,6 +75,18 @@ p {
     margin-left: 20px;
 }
 
+aside {
+    width: 21%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: #2589bd;
+}
+
+
+
+
 .benefits
 
  {
