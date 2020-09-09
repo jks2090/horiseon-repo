@@ -1,4 +1,4 @@
-![Horiseon Webpage]( https://jks2090.github.io/horiseon-repo/)
+![Horiseon Webpage](assets/images/Horiseon_pg1.png)
 
 # Webpage for Horiseon
 This repository includes the index.html, image assets, and a css style sheets, including both a reset to optimize webpage for all browsers, and a general style css for formating the webpage. I took the general framework of the given code and refactored it, replacing (div) with more appropriate "section", "aside", "article", "header", and "footer" functions. 
